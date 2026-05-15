@@ -215,17 +215,6 @@ RadioAI/
 
 **Key Finding**: Multi-scale is critical → single-scale drops accuracy by **11.62%** (biggest loss!)
 
----
-
-## 🎨 Design Philosophy
-
-The **feminine colour palette** was chosen intentionally:
-- Rose Pink `#e91e8c` — Attention & importance
-- Lavender `#9c27b0` — Trust & calm
-- Wine `#8b1a4a` — Confidence
-- Butter `#f5c518` — Highlights
-
-Medical AI tools are often austere and intimidating. This warmer, refined aesthetic makes clinical review more approachable. ✨
 
 ---
 
