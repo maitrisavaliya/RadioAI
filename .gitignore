@@ -1,0 +1,13 @@
+# Model files
+projects/**/*.pth
+projects/**/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
