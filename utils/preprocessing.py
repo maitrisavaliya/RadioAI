@@ -5,6 +5,9 @@ CT    : pseudo-volume (8 augmented slices) → per-channel normalise
 US    : augmentation-light resize → mean/std 0.5 normalise
 """
 
+import os
+os.environ['OPENCV_VIDEOIO_DEBUG'] = '0'
+
 import cv2
 import numpy as np
 import torch
